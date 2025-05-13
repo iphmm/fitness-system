@@ -68,7 +68,7 @@ Este tutorial guia você através dos passos para executar o projeto localmente.
 2.  Deverá aparecer no terminal a mensagem:
 
     ```bash
-   Servidor rodando na porta 3000
+       Servidor rodando na porta 3000
     ```
 
 3.  O servidor back-end será iniciado e estará rodando na porta `3000`. Você pode acessar a API através do seu navegador ou utilizando ferramentas como [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/).
