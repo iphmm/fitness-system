@@ -65,7 +65,7 @@ Este tutorial guia você através dos passos para executar o projeto localmente.
     node index.js
     ```
 
-2.  Se o projeto estiver configurado para usar o `nodemon` (que reinicia o servidor automaticamente ao salvar as alterações), você pode usar o seguinte comando:
+2.  Iniciar o Front-end
 
     ```bash
     npm run dev
