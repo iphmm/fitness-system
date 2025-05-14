@@ -27,6 +27,7 @@ model Sale {
   productId Int
   quantity  Int
   saleDate  DateTime @default(now())
+  orderNumber String @unique // campo para rastreabilidade
   product   Product  @relation(fields: [productId], references: [id])
 }
 

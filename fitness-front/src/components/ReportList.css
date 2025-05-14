@@ -1,0 +1,42 @@
+.report-container {
+  margin-top: 20px;
+}
+
+.report-container h2 {
+  color: #4A4A4A;
+  margin-bottom: 20px;
+}
+
+.table-container {
+  margin-bottom: 30px;
+}
+
+.table-container h3 {
+  color: #4A4A4A;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF;
+}
+
+th,
+td {
+  border: 1px solid #E0E0E0;
+  padding: 8px;
+  text-align: left;
+  color: #4A4A4A;
+}
+
+th {
+  background-color: #4A4A4A;
+  color: #FFFFFF;
+}
+
+p {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #4A4A4A;
+}

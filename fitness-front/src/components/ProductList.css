@@ -1,0 +1,40 @@
+.table-container {
+  margin-top: 20px;
+}
+
+.table-container h2 {
+  margin-bottom: 10px;
+  color: #4A4A4A;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #FFFFFF;
+}
+
+th,
+td {
+  border: 1px solid #E0E0E0;
+  padding: 8px;
+  text-align: left;
+  color: #4A4A4A;
+}
+
+th {
+  background-color: #4A4A4A;
+  color: #FFFFFF;
+}
+
+.edit-button {
+  padding: 5px 10px;
+  background-color: #F28C38;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.edit-button:hover {
+  background-color: #D9741F;
+}
