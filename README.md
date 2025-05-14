@@ -128,12 +128,6 @@ Este tutorial guia você através dos passos para executar o projeto localmente.
 
 2.  No seu navegador, ao acessar `http://localhost:5173`, a página do front-end deverá exibir a lista de produtos que foram adicionados através da API.
 
-## Passo 6: Próximos Passos
-
-* **Adicionar novas funcionalidades:** Considere adicionar novos endpoints na API para funcionalidades como cadastrar vendas (`POST /sales`) e agendar serviços (`POST /services`).
-* **Desenvolver a interface de usuário:** Crie formulários no front-end utilizando React para permitir que os usuários cadastrem novos produtos e agendem serviços de forma interativa.
-* **Deploy:** Após garantir que a aplicação está funcionando corretamente no seu ambiente local, planeje o deploy para um ambiente de produção. Algumas plataformas populares incluem [Vercel](https://vercel.com/) para o front-end e [Heroku](https://www.heroku.com/) para o back-end.
-
 ## Dicas Finais
 
 * **Git:** Mantenha o seu repositório atualizado e registre suas alterações com commits regulares:
